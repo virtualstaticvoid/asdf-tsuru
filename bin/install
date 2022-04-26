@@ -25,7 +25,7 @@ install_plugin() {
 }
 
 get_platform() {
-  [ "Linux" = "$(uname)" ] && echo "linux" || echo "darwin"
+  [ "Linux" = "$(uname)" ] && echo "linux" || echo "macOS"
 }
 
 get_arch() {
