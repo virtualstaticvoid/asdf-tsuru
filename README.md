@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add tsuru https://github.com/virtualstaticvoid/asdf-tsuru.git
+asdf install tsuru latest
 ```
 
 ## Use
